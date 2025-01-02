@@ -65,7 +65,7 @@
           withNetwork = false;
           withBin = false;
           buildFfmpeg = true;
-          withLib = false;
+          #withLib = false;
           withHtmlDoc = false;
           withManPages = false;
           withPodDoc = false;
